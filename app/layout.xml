@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns="https://geocortex.com/layout/v1" xmlns:custom="custom.67ac07ad">
+    <map config="map-1">
+        <!-- Added by following tutorial -->
+        <custom:custom config="map-1" margin="3" />    
+    </map>
+</layout>
